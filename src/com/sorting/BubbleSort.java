@@ -67,7 +67,6 @@ public class BubbleSort {
 	}
 
 	public static void main(String[] args) {
-
 		BubbleSort objBubbleSort = new BubbleSort();
 		int[] testInputArr = {9,2,8,1,6,4,3,2};
 		//int[] testInputArr = { 1, 2, 3, 6, 5 };
