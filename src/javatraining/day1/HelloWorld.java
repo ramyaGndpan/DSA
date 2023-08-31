@@ -6,6 +6,7 @@ public class HelloWorld {
         System.out.println(cricketers[2] instanceof String);
         // Print "Hello, World!" to the console
         System.out.println("Hello, World!");
+        System.out.println(Math.random()*100000);
     }
 
 

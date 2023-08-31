@@ -1,0 +1,103 @@
+Please select the service..
+ 1.Create an Account
+ 2.Deposit Amount
+ 3.Withdraw Amount
+ 4.Check Account Balance
+ 5.Exit
+2
+
+ Account doesnt exist.. Please create an account:
+Please select the service..
+ 1.Create an Account
+ 2.Deposit Amount
+ 3.Withdraw Amount
+ 4.Check Account Balance
+ 5.Exit
+1
+Thanks for creating account in our bank..
+ Please enter your full Name:
+ram
+
+ Please choose the account Type: 1. Checking Account 2. Savings Account
+1
+
+ Please enter your age:
+23
+
+ Please enter your address:
+sdfs
+
+ Please deposit your amount:
+20000
+
+ Congratulations.. Account successfully created...
+Please select the service..
+ 1.Create an Account
+ 2.Deposit Amount
+ 3.Withdraw Amount
+ 4.Check Account Balance
+ 5.Exit
+2
+
+ Please deposit your amount to deposit:
+4000
+
+ Amount successfully deposited...
+Please select the service..
+ 1.Create an Account
+ 2.Deposit Amount
+ 3.Withdraw Amount
+ 4.Check Account Balance
+ 5.Exit
+4
+
+ Account Details:
+ Account Number:6135
+ Account Name:ram
+ Account Type:Checking
+ Account Balance:24000.0
+Please select the service..
+ 1.Create an Account
+ 2.Deposit Amount
+ 3.Withdraw Amount
+ 4.Check Account Balance
+ 5.Exit
+3
+
+ Please deposit your amount to withdraw:
+3000
+
+ Amount successfully withdrawn...
+Please select the service..
+ 1.Create an Account
+ 2.Deposit Amount
+ 3.Withdraw Amount
+ 4.Check Account Balance
+ 5.Exit
+3
+
+ Please deposit your amount to withdraw:
+250000
+
+ Sorry.. Insufficient funds in your account.. 
+Please select the service..
+ 1.Create an Account
+ 2.Deposit Amount
+ 3.Withdraw Amount
+ 4.Check Account Balance
+ 5.Exit
+4
+
+ Account Details:
+ Account Number:6135
+ Account Name:ram
+ Account Type:Checking
+ Account Balance:21000.0
+Please select the service..
+ 1.Create an Account
+ 2.Deposit Amount
+ 3.Withdraw Amount
+ 4.Check Account Balance
+ 5.Exit
+5
+exiting.. thanks for using our service...
